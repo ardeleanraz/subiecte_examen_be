@@ -1,0 +1,7 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 22 Jan 2019 16:25:41 GMT
+Server: WSGIServer/0.2 CPython/3.6.7
+Content-Type: text/html; charset=utf-8
+Location: /login1/
+Content-Length: 0
+
